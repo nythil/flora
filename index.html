@@ -74,42 +74,34 @@
                     }
 
                     var str = $("<tr></tr>");
-
+                    
                     // Level
                     $("<td width='2%'>" + mark + x + "</td>").appendTo(str);
-
+                    
                     // Title
                     $("<td width='30%'>" +
-                        "<a href='http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=" + info[
-                            i]
-                        .md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
-
+                        "<a href='http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=" + info[i].md5 +
+                        "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
+                    
                     // Artist
                     $("<td width='25%'>" + info[i].artist + "</td>").appendTo(str);
-
-                    // URL Diff (new)
-                    (function () {
-                        var ud = info[i].url_diff || '';
-                        if (Array.isArray(ud)) {
-                            ud = ud.join(', ');
-                        }
-                        ud = String(ud);
-                        // if it looks like an http(s) URL, make it clickable; otherwise just show text
-                        if (ud.match(/^https?:\/\//i)) {
-                            $("<td width='20%'><a href='" + ud + "' target='_blank'>" + ud + "</a></td>").appendTo(str);
-                        } else {
-                            $("<td width='20%'>" + ud + "</td>").appendTo(str);
-                        }
-                    })();
-
+                    
+                    // URL Diff
+                    var ud = info[i].url_diff || '';
+                    if (ud.match(/^https?:\/\//i)) {
+                        $("<td width='20%'><a href='" + ud + "' target='_blank'>" + ud + "</a></td>").appendTo(str);
+                    } else {
+                        $("<td width='20%'>" + ud + "</td>").appendTo(str);
+                    }
+                    
                     // Score
                     $("<td width='2%' style='text-align:center'>" +
-                        "<a href='https://bms-score-viewer.pages.dev/view?md5=" + info[
-                            i]
-                        .md5 + "' target='_blank'>" + "&#9835" + "</a></td>").appendTo(str);
-
-                }
-                $("</tbody>").appendTo(obj);
+                        "<a href='https://bms-score-viewer.pages.dev/view?md5=" + info[i].md5 + "' target='_blank'>&#9835;</a></td>")
+                        .appendTo(str);
+                    
+                    // finally append row and increment count
+                    str.appendTo(obj);
+                    count++;
 
                 if (obj_sep != null) {
                     obj_sep.html("<td class='table-dark' style='text-align:left' colspan='5'>" + "<b>" + mark + x +
