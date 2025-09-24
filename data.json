@@ -528,6 +528,22 @@
     "adddate": "8\/28\/2025"
   },
   {
+    "md5": "1c38a43b2851ac6d12159b315a6a54e4",
+    "org_level": 2,
+    "title": "nenuphar [nympheas]",
+    "artist": "IKALRE mov:南栄 \/ obj.Arvion",
+    "folder": "花2",
+    "level": "2",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=319&event=146",
+    "url_diff": "https:\/\/darksabun.club\/event\/mf2\/sabun\/nenuphar_Arvion.zip",
+    "name_diff": "Arvion",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "sl1",
+    "adddate": "9\/24\/2025"
+  },
+  {
     "md5": "53e7077450dfdacb1e49ce59e12c046a",
     "org_level": 2,
     "title": "Overjoy ★ OVERDOSE!! [LIVE!!]",
@@ -1040,22 +1056,6 @@
     "adddate": "9\/24\/2025"
   },
   {
-    "md5": "d23934389e48f1c7b8f9c4eaa49d6d1e",
-    "org_level": 6,
-    "title": "T-EDIT [Maniac7]",
-    "artist": "knot \/ obj.siokaze",
-    "folder": "花5",
-    "level": "5",
-    "lr2_bmsid": null,
-    "url": "https:\/\/web.archive.org\/web\/20080512145843\/http:\/\/knot2565.hp.infoseek.co.jp:80\/bof2005.html",
-    "url_diff": "http:\/\/siokazebms.web.fc2.com\/",
-    "name_diff": "siokaze",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "乱打、微縦連、皿複合 (25\/04\/01)▼5→▼6",
-    "adddate": "9\/24\/2025"
-  },
-  {
     "md5": "7c6a1c1af2862f457bc8dababc84f59c",
     "org_level": 3,
     "title": "the core [core]",
@@ -1198,6 +1198,27 @@
     "org_md5": "",
     "comment": "同梱譜面(obj:K-SPIN)",
     "adddate": "9\/10\/2025"
+  },
+  {
+    "md5": "08b7c92d25daf241f263daf55d1de39f",
+    "org_level": 12,
+    "title": "Fly to the Leaden Sky (上級コース)",
+    "artist": "Original:並木学 \/ Copy:azu \/ Obj:kazu",
+    "folder": "花6",
+    "level": "6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f52624b294692921579f39f0f6074067",
+      "454c952f1035b4531489171193f06203",
+      "08b7c92d25daf241f263daf55d1de39f",
+      "26a686389e5ecedfdce45e104f37e9cd"
+    ],
+    "org_md5": "f52624b294692921579f39f0f6074067",
+    "comment": "",
+    "adddate": "9\/24\/2025"
   },
   {
     "md5": "0083f9de62f737c85c99e962074fb07a",
@@ -1905,6 +1926,44 @@
     "adddate": "9\/24\/2025"
   },
   {
+    "md5": "e4305212d18e0d2080873aa33ad39b6d",
+    "org_level": 12,
+    "title": "goly right tateration",
+    "artist": "Ym1024 feat. lamie* Movie : Milk_tya \/ 恋々 \/ obj:縦連打協会企画部クリスマス課",
+    "folder": "花10",
+    "level": "10",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "22a8b3987f75044e9af06cf497be8d2c",
+      "18ddbb7267b524737b8ce4b02db4ac1d",
+      "1ea633b80caadf792c5ccd64275acc93",
+      "2eb20a32d1eb2609ba8743e8db75a8e5",
+      "946a95035695459fbc73f96a0424ccd1",
+      "9b6347e72a0701a418fa1eb5235c9ca0",
+      "fb888d870237f350b92653f7eb44a68c",
+      "885a94bc5c5e1c5aa016ab525d6990c2",
+      "196d20d1151af5e0357a0a7085e75c23",
+      "9e7c49ca3b5c527f6ff15f436add0dd0",
+      "4e8727634b539926d0a12a6e4da9a206",
+      "5c62dfd85860755d8af964560f282a04",
+      "fc796eb557d5e2af949837c56049e263",
+      "e4305212d18e0d2080873aa33ad39b6d",
+      "3ac1dd0d67a157f99268139a2347229c",
+      "1ecb903bd00abae586bd3704ca9e8a27",
+      "7e9306c617ba9a18d34b17241fb7b93d",
+      "6a5d4051939c057b68ea7859af58020a",
+      "c14fa03695eb0d8372414d85bb083fc1",
+      "ab823848fddc33a3b2df7b617d2e1c37",
+      "d5fad75f16e84c233877835f9a9e6b75"
+    ],
+    "org_md5": "22a8b3987f75044e9af06cf497be8d2c",
+    "comment": "",
+    "adddate": "9\/24\/2025"
+  },
+  {
     "md5": "0cbbb890dd63a20938f97edd2db42e4c",
     "org_level": 6,
     "title": "Sesame Kingdom [Cumin Flavor]",
@@ -2027,6 +2086,22 @@
     "org_md5": "",
     "comment": "汎用up4772.zip\u000a■ GENOSIDE2018段位認定 発狂四段 1曲目（18\/04\/15～）",
     "adddate": "9\/10\/2025"
+  },
+  {
+    "md5": "2733fe5fc15ae6b385fa41c643b9c43c",
+    "org_level": 2,
+    "title": "Backpacker(remix) [\/]",
+    "artist": "RearDawn remixed by LU obj. SECTION",
+    "folder": "花11",
+    "level": "11",
+    "lr2_bmsid": null,
+    "url": "https:\/\/docs.google.com\/uc?export=download&id=1CM1RNI6Ufoiq5BKXT6tSyufegCmECobD",
+    "url_diff": "https:\/\/darksabun.club\/event\/mf2\/sabun\/_Backpackerremix_SECTION.zip",
+    "name_diff": "SECTION",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "★12?",
+    "adddate": "9\/24\/2025"
   },
   {
     "md5": "9dac89a0e3b0d2128b60f0cb4c1425d0",
@@ -3181,22 +3256,6 @@
     "adddate": "8\/28\/2025"
   },
   {
-    "md5": "4b347c77f74ff4880673448664d0d1ea",
-    "org_level": 9,
-    "title": "堕楽の園 [EXTASIM]",
-    "artist": "witch's slave Graphic by Est \/ obj:0war1a VS saaa",
-    "folder": "花15",
-    "level": "15",
-    "lr2_bmsid": null,
-    "url": "https:\/\/extrose.stoicsounds.jp\/_data\/bms\/gmtn\/%2331%20%5BILLEGAL%20GOTHIC%20SCHRANZ%5D%20%E5%A0%95%E6%A5%BD%E3%81%AE%E5%9C%92.zip",
-    "url_diff": "http:\/\/absolute.pv.land.to\/bof\/src\/up1051.zip",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "9\/24\/2025"
-  },
-  {
     "md5": "7cf63ef59def72e41f266d6b357700c8",
     "org_level": 15,
     "title": "鎖 -極- <infinite>",
@@ -3658,22 +3717,6 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "★10(X) ★16です よろしくお願いします！！差分URL→差分パック→pumpkinman_oggフォルダ内",
-    "adddate": "8\/29\/2025"
-  },
-  {
-    "md5": "0343af1da0eefa6455778d765b6e57da",
-    "org_level": 11,
-    "title": "Romantic Children -Eclipse-",
-    "artist": "ZUN \/ BMS:average BGA:のりろー \/ selene.",
-    "folder": "花17",
-    "level": "17",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=73&event=102",
-    "url_diff": "https:\/\/bms.hexlataia.xyz\/mirror\/gnqg-upload\/02648.zip",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
     "adddate": "8\/29\/2025"
   },
   {
@@ -5325,6 +5368,22 @@
     "adddate": "8\/28\/2025"
   },
   {
+    "md5": "cd5e3c056e4a10249962a9ac05958a5c",
+    "org_level": 1,
+    "title": "A Gamer Never Showed Up For PABAT. This Is What Happened To His Brain. [!]",
+    "artist": "ProjectG obj. SECTION",
+    "folder": "花21",
+    "level": "21",
+    "lr2_bmsid": null,
+    "url": "https:\/\/k-bms.com\/party_pabat\/party.jsp?board_num=25&num=49&order=reg&odtype=a",
+    "url_diff": "https:\/\/darksabun.club\/event\/mf2\/sabun\/A_Gamer_SECTION.zip",
+    "name_diff": "SECTION",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "st1~2?",
+    "adddate": "9\/24\/2025"
+  },
+  {
     "md5": "3d11da08834644a1c8af528a027649f9",
     "org_level": 21,
     "title": "Alastor [Dead End]",
@@ -5966,22 +6025,6 @@
     "adddate": "9\/24\/2025"
   },
   {
-    "md5": "8fcf3beff566bf6256f4a7212432c68c",
-    "org_level": 2,
-    "title": "Suffruti [SILENCER]",
-    "artist": "Black Lotus \/ U",
-    "folder": "花21",
-    "level": "21",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=60&event=104",
-    "url_diff": "https:\/\/obju.web.fc2.com\/index.html",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "8\/28\/2025"
-  },
-  {
     "md5": "6fd3ccb271ddb3d18bd8e4800e81ad81",
     "org_level": 1,
     "title": "WAKEFULNESS [A+]",
@@ -6236,22 +6279,6 @@
     "org_md5": "",
     "comment": "8-luze-314.zip",
     "adddate": "8\/28\/2025"
-  },
-  {
-    "md5": "dd96b5d43c8ec1a05a970a57bf40b465",
-    "org_level": 2,
-    "title": "Absurd Gaff [★8]",
-    "artist": "siromaru \/ obj:ジャンキー",
-    "folder": "花22",
-    "level": "22",
-    "lr2_bmsid": null,
-    "url": "http:\/\/nekokan.dyndns.info\/~lobsak\/genoside\/",
-    "url_diff": "https:\/\/www.dropbox.com\/sh\/vkq2r853sj04s95\/AAD2LIk2DPlgEtwN5cvQUtDba\/Absurd%20Gaff?dl=0",
-    "name_diff": "ジャンキー",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "局所難",
-    "adddate": "9\/24\/2025"
   },
   {
     "md5": "4fa85a5bb4078b0fe934203622dde6f1",
@@ -6684,22 +6711,6 @@
     "org_md5": "",
     "comment": "00 - q2r_BOKKI.bme",
     "adddate": "9\/24\/2025"
-  },
-  {
-    "md5": "6055fa88e9f0ca8642d88b75f2808e1d",
-    "org_level": 22,
-    "title": "Rin-Rin [7K LT's INSANE]",
-    "artist": "Hyparpax obj: LuvTek",
-    "folder": "花22",
-    "level": "22",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=251&event=133",
-    "url_diff": "https:\/\/darksabun.github.io\/event\/bofxvi\/sabun\/20201108_rinrin.zip",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "8\/29\/2025"
   },
   {
     "md5": "d54fafa778656b1c8b47407c34704778",
@@ -7450,22 +7461,6 @@
     "adddate": "8\/29\/2025"
   },
   {
-    "md5": "cc9b4ab5f7b9f1bd87dbd5735f7fa48f",
-    "org_level": 4,
-    "title": "N - flat waves - [\\]",
-    "artist": "er obj:1008",
-    "folder": "花23",
-    "level": "23",
-    "lr2_bmsid": null,
-    "url": "http:\/\/nekokan.dyndns.info\/file\/log\/review\/pupuly_2\/bms\/43.html",
-    "url_diff": "https:\/\/bms.hexlataia.xyz\/mirror\/gnqg-upload\/02043.zip",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "8\/28\/2025"
-  },
-  {
     "md5": "6880dbeffc00e460a72d704be661a6ae",
     "org_level": 22,
     "title": "rabbit burrow [rabbit blow]",
@@ -7624,22 +7619,6 @@
     "org_md5": "",
     "comment": "汎用up4396",
     "adddate": "9\/10\/2025"
-  },
-  {
-    "md5": "7ea51d3bfe371f19d49e288f59162316",
-    "org_level": 23,
-    "title": "ZENYTHILIZE",
-    "artist": "姉ヶ崎 寧々 BGA : photonskyto",
-    "folder": "花23",
-    "level": "23",
-    "lr2_bmsid": null,
-    "url": "https:\/\/electro-planet.net\/loveplus\/zenithalize.rar",
-    "url_diff": "https:\/\/yaritaihoudie.fr\/sabun\/zenithalize.zip",
-    "name_diff": "差分",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "BOF2009 所属チーム「876 Production」",
-    "adddate": "8\/28\/2025"
   },
   {
     "md5": "b75c118e0e22ebf2d1444218acd94bc3",
@@ -7896,22 +7875,6 @@
     "org_md5": "",
     "comment": "低トータルとソフラン \/ below the luvtek",
     "adddate": "8\/29\/2025"
-  },
-  {
-    "md5": "8b925325ccfbb3922d9e61a83b3a7ff5",
-    "org_level": 4,
-    "title": "Death mail Ⅳ  (｀ω´)",
-    "artist": "SKz \/ obj:BOKKI",
-    "folder": "花24",
-    "level": "24",
-    "lr2_bmsid": null,
-    "url": "https:\/\/drive.google.com\/u\/0\/uc?id=1i2wM3WZA3J2VkJS-wTUiY12UkkMcERxi&export=download",
-    "url_diff": "http:\/\/web.archive.org\/web\/20181105054733\/http:\/\/www.geocities.jp\/bokki_chinpoman\/death_mail_IV_BOKKI.zip",
-    "name_diff": "BOKKI",
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "(｀ω´)",
-    "adddate": "9\/24\/2025"
   },
   {
     "md5": "259657954e29d28cee944e3f236640b5",
@@ -9020,22 +8983,6 @@
     "adddate": "8\/28\/2025"
   },
   {
-    "md5": "9dac89a0e3b0d2128b60f0cb4c1425d0",
-    "org_level": 11,
-    "title": "Dusk Recapture [A]",
-    "artist": "keyc",
-    "folder": "花???",
-    "level": "???",
-    "lr2_bmsid": null,
-    "url": "https:\/\/onedrive.live.com\/?id=FC95A680740CA8C9!201&cid=FC95A680740CA8C9",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "8\/28\/2025"
-  },
-  {
     "md5": "1efefbc13b8e4642de1767b7ce7fa7c1",
     "org_level": 1,
     "title": "flowers of the light <BGA ^ ^>",
@@ -9130,6 +9077,28 @@
     "org_md5": "",
     "comment": "★★3 発狂23",
     "adddate": "8\/28\/2025"
+  },
+  {
+    "md5": "7af9c076a80c79709a60192cededb0ce",
+    "org_level": 4,
+    "title": "I Am Making Art [Dynamic]",
+    "artist": "John Baldessari",
+    "folder": "花???",
+    "level": "???",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "498bf1a9622ff04e3533f2dbe87a3b0c",
+      "62d2e6636f616b712d645d939995f125",
+      "31093752c2877e0b52851ded695e41d4",
+      "7af9c076a80c79709a60192cededb0ce",
+      "333460a3510ae242901d98d34ee3e74a"
+    ],
+    "org_md5": "498bf1a9622ff04e3533f2dbe87a3b0c",
+    "comment": "",
+    "adddate": "9\/24\/2025"
   },
   {
     "md5": "3260eccf67f0ca5a35eac2c2aaf521a8",
@@ -9268,6 +9237,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "8\/29\/2025"
+  },
+  {
+    "md5": "508330b4bc4513536aea7945d90909e2",
+    "org_level": null,
+    "title": "マジカル縦連打",
+    "artist": "源屋feat.ユスラ　\/obj：自重しないJLS",
+    "folder": "花???",
+    "level": "???",
+    "lr2_bmsid": "93156",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=86&event=36",
+    "url_diff": "http:\/\/gooeybms.web.fc2.com\/index.html",
+    "name_diff": "JLS",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "隔離枠その2。縦連。▼2はS乱での難易度。削除提案で問題に挙がった曲です。",
+    "adddate": "9\/24\/2025"
   },
   {
     "md5": "42b37066913057e113e3a10731303719",
