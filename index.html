@@ -56,7 +56,8 @@
                 var obj = $("#table_int");
 
                 obj.html("");
-                $("<thead class='table-dark'><tr><th>Level</th><th>Title</th><th>Artist</th><th>Comment</th><th></th></tr></thead><tbody>")
+                // Added URL Diff header as the 4th column; Score stays as last (5th)
+                $("<thead class='table-dark'><tr><th>Level</th><th>Title</th><th>Artist</th><th>URL Diff</th><th></th></tr></thead><tbody>")
                     .appendTo(obj);
                 var obj_sep = null;
                 for (var i = 0; i < info.length; i++) {
@@ -84,13 +85,23 @@
                         .md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
 
                     // Artist
-                    $("<td width='25%'>" + info[i].artist + "</td>").appendTo(str);               
+                    $("<td width='25%'>" + info[i].artist + "</td>").appendTo(str);
 
-                    // Comment
-                    $("<td width='41%'>" + info[i].comment + "</td>").appendTo(str);
-                    str.appendTo(obj);
-                    count++;
-                    
+                    // URL Diff (new)
+                    (function () {
+                        var ud = info[i].url_diff || '';
+                        if (Array.isArray(ud)) {
+                            ud = ud.join(', ');
+                        }
+                        ud = String(ud);
+                        // if it looks like an http(s) URL, make it clickable; otherwise just show text
+                        if (ud.match(/^https?:\/\//i)) {
+                            $("<td width='20%'><a href='" + ud + "' target='_blank'>" + ud + "</a></td>").appendTo(str);
+                        } else {
+                            $("<td width='20%'>" + ud + "</td>").appendTo(str);
+                        }
+                    })();
+
                     // Score
                     $("<td width='2%' style='text-align:center'>" +
                         "<a href='https://bms-score-viewer.pages.dev/view?md5=" + info[
