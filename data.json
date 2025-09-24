@@ -4789,6 +4789,22 @@
     "adddate": "8\/29\/2025"
   },
   {
+    "md5": "0b19727cf80ebd690efcd1f4cfccd239",
+    "org_level": 7,
+    "title": "IN [SANE]",
+    "artist": "Zris feat. Katie obj. LuvTek",
+    "folder": "花20",
+    "level": "20",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=354&event=127",
+    "url_diff": "https:\/\/fsrs.darksabun.club\/sabun\/LuvTek\/IN_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "9\/24\/2025"
+  },
+  {
     "md5": "2338ea893bf8c9c3d3304c862615adc6",
     "org_level": 20,
     "title": "Lamir (KF7)",
@@ -5637,6 +5653,22 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "",
+    "adddate": "9\/24\/2025"
+  },
+  {
+    "md5": "4065e4ff3e56fb1543df3a36e8576555",
+    "org_level": 6,
+    "title": "Halcyon -MY INTERPRETATION- [7KEYS (^ω^)\/]",
+    "artist": "Remixed by BACO feat.えみゅう (Original : xi) OBJ: M-SPIN",
+    "folder": "花21",
+    "level": "21",
+    "lr2_bmsid": null,
+    "url": "https:\/\/drive.google.com\/file\/d\/1zrLndEChstF2ga51v_Dm55q-ULfWS3c2",
+    "url_diff": "https:\/\/fsrs.darksabun.club\/sabun\/M-SPIN\/Halcyon%20-MY%20INTERPRETATION-_MS.zip",
+    "name_diff": "M-SPIN",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "st1 過去差分のズレ修正本(7A音源基盤)",
     "adddate": "9\/24\/2025"
   },
   {
@@ -6569,6 +6601,22 @@
     "adddate": "9\/24\/2025"
   },
   {
+    "md5": "abeb89729071545993c8234d7f12e476",
+    "org_level": 7,
+    "title": "Gasoline Blood [BLEEDLEAK]",
+    "artist": "ですワ BGI:空読無 白眼 OBJ: LuvTek",
+    "folder": "花22",
+    "level": "22",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=41&event=142",
+    "url_diff": "https:\/\/fsrs.darksabun.club\/sabun\/LuvTek\/Gasoline_Burst_LT.zip",
+    "name_diff": "LuvTek",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "st2",
+    "adddate": "9\/24\/2025"
+  },
+  {
     "md5": "7d11c3790c0d5e1e1fa6f12cd4a23430",
     "org_level": 22,
     "title": "HARDCORE MOKOTAN (bms edit) [MOKOTANE]",
@@ -6839,6 +6887,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "8\/29\/2025"
+  },
+  {
+    "md5": "3fe7e7e03df1e1aaaef8281f56b9669a",
+    "org_level": 8,
+    "title": "TEXTURE",
+    "artist": "pencil obj. LuvTek",
+    "folder": "花22",
+    "level": "22",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=200&event=127",
+    "url_diff": "https:\/\/fsrs.darksabun.club\/sabun\/LuvTek\/TEXTURE_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "9\/24\/2025"
   },
   {
     "md5": "faa1424a58f1858c7be7f2529798986a",
@@ -7493,6 +7557,22 @@
     "adddate": "8\/29\/2025"
   },
   {
+    "md5": "babde07aa3c2f6fbf036f69849d668ed",
+    "org_level": 9,
+    "title": "PUPA [LighT]",
+    "artist": "モリモリあつし obj: LuvTek",
+    "folder": "花23",
+    "level": "23",
+    "lr2_bmsid": null,
+    "url": "https:\/\/dropbox.bms.ms\/u\/37251493\/PUPA.zip",
+    "url_diff": "https:\/\/darksabun.github.io\/event\/bcel\/sabun\/AF_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "st2 追加音源あり",
+    "adddate": "9\/24\/2025"
+  },
+  {
     "md5": "6880dbeffc00e460a72d704be661a6ae",
     "org_level": 22,
     "title": "rabbit burrow [rabbit blow]",
@@ -7813,6 +7893,22 @@
     "adddate": "8\/28\/2025"
   },
   {
+    "md5": "e4aab1220e5d6620bfd3e8653e09f82e",
+    "org_level": 12,
+    "title": "<header> <\/header>",
+    "artist": "潮音きつね obj: LuvTek",
+    "folder": "花24",
+    "level": "24",
+    "lr2_bmsid": null,
+    "url": "https:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=40&event=139",
+    "url_diff": "https:\/\/fsrs.darksabun.club\/sabun\/LuvTek\/header_LuvTek.zip",
+    "name_diff": "LuvTek",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "停止と皿に注意",
+    "adddate": "9\/24\/2025"
+  },
+  {
     "md5": "351749dd4c8e632b0ed3e578a51ecd2a",
     "org_level": 0,
     "title": "5th Drop Shooter -Genocide-",
@@ -8082,6 +8178,22 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "",
+    "adddate": "9\/24\/2025"
+  },
+  {
+    "md5": "8968d7fa3c6403d71e3f5a951f80635b",
+    "org_level": 12,
+    "title": "Gynandromorph -Mosaic Noise-",
+    "artist": "tarolabo obj:七海+Luvtek",
+    "folder": "花24",
+    "level": "24",
+    "lr2_bmsid": null,
+    "url": "https:\/\/www.mediafire.com\/file\/44680p3uf7dab41\/Gynandromorph.zip\/file",
+    "url_diff": "https:\/\/fsrs.darksabun.club\/sabun\/LuvTek\/gynan_LuvTek.zip",
+    "name_diff": "LuvTek+七海",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "追加音源あり MineC24さんと合作",
     "adddate": "9\/24\/2025"
   },
   {
