@@ -9191,6 +9191,35 @@
     "adddate": "9\/24\/2025"
   },
   {
+    "md5": "54160009387f441e7288ec86100f3151",
+    "org_level": 5,
+    "title": "Bad Boy [Asphyxia's Insane]",
+    "artist": "Cascada ※BGA ON Map by Asphyxia \/ Storyboard by XinCrin",
+    "folder": "花???",
+    "level": "???",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "e4374fea4b0b0581c9af33fd87c619c7",
+      "d493e51c17c0b60fd534617431e2213d",
+      "fb6fd966c9a3b110077f5cb72bae7937",
+      "95f324c72be50f69bd4f2da3c021c73b",
+      "29c1648a94c0e2bfa277944485be2a59",
+      "d1b91a004fe1f6059c14f18e1ccb1da9",
+      "8f26fd8024276be97dd41a082dec4564",
+      "85d404bf0111cfc407ea1b468520f16b",
+      "54160009387f441e7288ec86100f3151",
+      "ac72c26162c95b51cb81d37ca0798ba2",
+      "f30773084db65572782a98c8f7763a41",
+      "d3cdf12b3a16ba341f2072e37997b3eb"
+    ],
+    "org_md5": "e4374fea4b0b0581c9af33fd87c619c7",
+    "comment": "",
+    "adddate": "9\/24\/2025"
+  },
+  {
     "md5": "8b925325ccfbb3922d9e61a83b3a7ff5",
     "org_level": 4,
     "title": "Death mail Ⅳ  (｀ω´)",
@@ -9735,4 +9764,5 @@
     "comment": "",
     "adddate": "9\/24\/2025"
   }
+
 ]
