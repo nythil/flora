@@ -84,7 +84,11 @@
                     $("<td><a href='http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=" + info[i].md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
 
                     // Artist
-                    $("<td>" + info[i].artist + "</td>").appendTo(str);
+                    if (info[i].url && typeof info[i].url === "string" && info[i].url.match(/^https?:\/\//i)) {
+                        $("<td><a href='" + info[i].url + "' target='_blank'>" + info[i].artist + "</a></td>").appendTo(str);
+                    } else {
+                        $("<td>" + info[i].artist + "</td>").appendTo(str);
+                    }
 
                     // URL Diff
                     var ud = info[i].url_diff || '';
