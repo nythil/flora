@@ -3112,6 +3112,22 @@
     "adddate": "8\/29\/2025"
   },
   {
+    "md5": "6cacf6e30a4d2542ffd74a64c9e7ff63",
+    "org_level": 15,
+    "title": "L9 -落とし穴 final edition-",
+    "artist": "paraoka \/ Kz",
+    "folder": "花15",
+    "level": "15",
+    "lr2_bmsid": "131867",
+    "url": "http:\/\/homepage1.nifty.com\/paraoka\/",
+    "url_diff": "http:\/\/nekokan.dyndns.info\/~lobsak\/bms\/repair_pack.zip",
+    "name_diff": "http:\/\/nekokan.dyndns.info\/~lobsak\/bms\/repair_pack.zip",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BGAは以下http:\/\/web.archive.org\/web\/20030201160328\/http:\/\/homepage1.nifty.com\/paraoka\/bms\/l9.html原曲を http:\/\/mok2lnbms.6.ql.bz\/nijihaifu.html で二次配布中",
+    "adddate": "9\/24\/2025"
+  },
+  {
     "md5": "010d5e5f5225616215c1b365f68a604b",
     "org_level": 10,
     "title": "Lapis [World Extend]",
@@ -4579,6 +4595,22 @@
     "org_md5": "",
     "comment": "発狂BMS段位認定 十段1曲目",
     "adddate": "9\/10\/2025"
+  },
+  {
+    "md5": "66ad18dc4b94085c87324b757286755b",
+    "org_level": 0,
+    "title": "anti [anticipated]",
+    "artist": "SUKE underground",
+    "folder": "花20",
+    "level": "20",
+    "lr2_bmsid": null,
+    "url": "https:\/\/bms.kyouko.moe\/torrent\/BMS_Library\/anti%20(by%20SUKE%20underground).rar",
+    "url_diff": "http:\/\/absolute.pv.land.to\/bmsuploader.html",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "9\/24\/2025"
   },
   {
     "md5": "dcccd65d86f6039d459d23ca844b944b",
@@ -7289,6 +7321,22 @@
     "adddate": "8\/28\/2025"
   },
   {
+    "md5": "9b31cd0943d3824d8b50de1f9d08319b",
+    "org_level": 3,
+    "title": "APOLLON [GOD]",
+    "artist": "sun3 \/ Add Sounds:??? \/ obj. AXION",
+    "folder": "花23",
+    "level": "23",
+    "lr2_bmsid": null,
+    "url": "https:\/\/web.archive.org\/web\/20190330075243\/http:\/\/www.geocities.jp\/sun3_bms\/apollon_bms.rar",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/1717",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "9\/24\/2025"
+  },
+  {
     "md5": "8f4cd43c1237ce576e8b7cf0740fe73c",
     "org_level": 3,
     "title": "Back 2 Oldskool [yumether]",
@@ -7351,6 +7399,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "8\/28\/2025"
+  },
+  {
+    "md5": "9df6c993453aae1bc08b5272c15bf436",
+    "org_level": 2,
+    "title": "boxiv! on! fight! [or! flight!]",
+    "artist": "KAH BGA:自動車 原付 illust:りゅうら obj:LuvTek",
+    "folder": "花23",
+    "level": "23",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=114&event=127",
+    "url_diff": "https:\/\/darksabun.github.io\/bceg\/event\/ondan9\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "9\/24\/2025"
   },
   {
     "md5": "2b5dc239af79110f25a4f0247afd649e",
