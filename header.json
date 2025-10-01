@@ -31,6 +31,7 @@
     "26",
     "???",
     "◆",
+    "◆◆",
     "~"
   ],
   "folder_order": [
@@ -63,6 +64,7 @@
     "花26",
     "花???",
     "花◆",
+    "花◆◆",
     "花~"
   ],
   "folder_sort_key": "song.title",
@@ -70,9 +72,9 @@
   "entry_type": "",
   "data_url": "https://nythil.github.io/flora/data.json",
   "compat_prefix": "花",
-  "last_update": "9/24/2025",
+  "last_update": "10/1/2025",
   "editor_name": "BeMusicSeeker",
-  "editor_version": "1.1",
-  "output_date": "9/24/2025"
+  "editor_version": "1.2",
+  "output_date": "10/1/2025"
 }
 
