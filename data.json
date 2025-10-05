@@ -3232,6 +3232,32 @@
     "adddate": "8\/28\/2025"
   },
   {
+    "md5": "c9925fcdf6f3d8c09bda1a51387df785",
+    "org_level": 13,
+    "title": "saucy plume (assaultics)",
+    "artist": "kurenaissance",
+    "folder": "花13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "0d489557df4da5416f334c613cd4caf9",
+      "c18135a013ecfb05e6afad56fda78396",
+      "c9925fcdf6f3d8c09bda1a51387df785",
+      "ae8af1d5a34117542d0729625aaa38f7",
+      "f880de58c2dcb3ea4e3d9dc39b096080",
+      "9e7dff9f1d1d3f870b0d767888f028c5",
+      "917d642ca03aed13f3995293cbb699c5",
+      "ef894fd1a63d7335beb2d81cd4063f7c",
+      "3844ffb7b5de4d43525fd07a2b1b0ed1"
+    ],
+    "org_md5": "0d489557df4da5416f334c613cd4caf9",
+    "comment": "",
+    "adddate": "10\/4\/2025"
+  },
+  {
     "md5": "bd26ab5b4e196ecc78c0b90f1af81576",
     "org_level": 13,
     "title": "Soul of Deep-sea Fish [RUSH]",
@@ -3246,6 +3272,35 @@
     "org_md5": "",
     "comment": "obj_jakko差分一覧 http:\/\/joka193.blog.fc2.com\/blog-entry-90.html",
     "adddate": "9\/10\/2025"
+  },
+  {
+    "md5": "f43906a231dbb982460420909f2ab5c8",
+    "org_level": 14,
+    "title": "Speed Dial [FREAK]",
+    "artist": "lactate \/ Symphonian",
+    "folder": "花13",
+    "level": "13",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c6c3787fb8a02f849dfaff62bb4c3a9a",
+      "0c08a29d2dcf0b3560848f8a1bf09e1e",
+      "54f8b9dd9081a57a2a1b3d1dcd458213",
+      "21e8f291ad1b21405f0caee18e22a156",
+      "596e85ed0cf6f68b7600d87d8742f254",
+      "a0f0cf04195332ce05e89ee966e8a7c4",
+      "f43906a231dbb982460420909f2ab5c8",
+      "8ace55ebc29ea04cbe402c77a45d81f1",
+      "ab4097094853b6cacf76d4b2287e1e78",
+      "3bea6e08ee0c69425c45a6e2bdca3776",
+      "10964b83d49b3a817cbae7a4a0e102d7",
+      "9fcb25dd447aaeed108a50098583996e"
+    ],
+    "org_md5": "c6c3787fb8a02f849dfaff62bb4c3a9a",
+    "comment": "",
+    "adddate": "10\/4\/2025"
   },
   {
     "md5": "bd04e1b7c7f225f2873f0943af9574a4",
