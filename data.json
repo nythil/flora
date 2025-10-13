@@ -1527,6 +1527,22 @@
     "adddate": "9\/24\/2025"
   },
   {
+    "md5": "c9f0c46d308e96d4210909005e95e751",
+    "org_level": 4,
+    "title": "SUPERNOVA [Lv.5]",
+    "artist": "BACO \/ obj.ejl6",
+    "folder": "花4",
+    "level": "4",
+    "lr2_bmsid": "115701",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up2309.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "SUPERNOVA \/ BACO ★0,★4,★8など　体力譜面　トリル入り発狂",
+    "adddate": "10\/13\/2025"
+  },
+  {
     "md5": "f1fd1f33aa111ab8bb7a9f68eef2a5ba",
     "org_level": 12,
     "title": "THE SAFALI PARK  [ANOTHER]",
@@ -2003,6 +2019,22 @@
     "adddate": "9\/24\/2025"
   },
   {
+    "md5": "3eb7fc747d8596795c3c020a40a73d3f",
+    "org_level": 5,
+    "title": "THE TIGHTNESS [F]",
+    "artist": "Defiler obj:Fender",
+    "folder": "花6",
+    "level": "6",
+    "lr2_bmsid": "165411",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=337&event=74",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up3740.rar",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "[BOF2011]THE TIGHTNESS\/Defiler\/★5\/皿絡み、ズレなど",
+    "adddate": "10\/13\/2025"
+  },
+  {
     "md5": "19fbf62d711282d81208f97f7135e2a2",
     "org_level": 6,
     "title": "Trahison [E]",
@@ -2253,6 +2285,22 @@
     "org_md5": "2a9cdf9f656baf90e5918c06dec19646",
     "comment": "",
     "adddate": "10\/10\/2025"
+  },
+  {
+    "md5": "c605410e1442b88b9f67ad9d8bca5757",
+    "org_level": 7,
+    "title": "R140 [Addiction]",
+    "artist": "MisstypeTourist \/ obj:みっと",
+    "folder": "花7",
+    "level": "7",
+    "lr2_bmsid": "181791",
+    "url": "http:\/\/www.luzeria.net\/music\/bms.htm",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up4122.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "R140 \/ 誤字トゥーリスト \/ ★6",
+    "adddate": "10\/13\/2025"
   },
   {
     "md5": "d23934389e48f1c7b8f9c4eaa49d6d1e",
@@ -2641,6 +2689,22 @@
     "adddate": "9\/30\/2025"
   },
   {
+    "md5": "2699862b096e1aa6fe6da4ebb4849753",
+    "org_level": 8,
+    "title": "／^o^＼  [7keys Go Beyond!!]",
+    "artist": "Yamajet BGA: sta",
+    "folder": "花8",
+    "level": "8",
+    "lr2_bmsid": "86490",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up1483.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "／^o^＼Go Beyond!!　★8くらい",
+    "adddate": "10\/13\/2025"
+  },
+  {
     "md5": "a77d305d0be66d30d211c91b3324642e",
     "org_level": 9,
     "title": "〇、★。",
@@ -2655,6 +2719,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "8\/28\/2025"
+  },
+  {
+    "md5": "6e3eb2819f4b59d343fe83b5c709f897",
+    "org_level": 8,
+    "title": "2038 [AFOTHER]",
+    "artist": "Yamajet",
+    "folder": "花8",
+    "level": "8",
+    "lr2_bmsid": "155322",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up3357.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "2038 \/ Yamajet \/ ★7~8 \/ 皿複合",
+    "adddate": "10\/13\/2025"
   },
   {
     "md5": "1e149570c9c292e83d2646a56653c50a",
@@ -3121,6 +3201,22 @@
     "adddate": "9\/24\/2025"
   },
   {
+    "md5": "d7f6968a338b55883235825a7e38a147",
+    "org_level": 9,
+    "title": "モリオンの姫 (Mr.T)",
+    "artist": "wa. \/obj:L",
+    "folder": "花9",
+    "level": "9",
+    "lr2_bmsid": "41321",
+    "url": "http:\/\/creation-records.info\/bms\/morion.rar",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up0499.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BOF2009 wa. モリオンの姫 (Mr.T)",
+    "adddate": "10\/13\/2025"
+  },
+  {
     "md5": "b2be89bb2306036f83cdf07a977e75c8",
     "org_level": 6,
     "title": "奏龍ピアソラ [D.Append]",
@@ -3217,6 +3313,38 @@
     "adddate": "8\/28\/2025"
   },
   {
+    "md5": "bcd8dc91bae4b19119e4858166a33b9c",
+    "org_level": 10,
+    "title": "ENTANGLEMENT［complication］",
+    "artist": "ABE3\/obj:賽銭箱",
+    "folder": "花10",
+    "level": "10",
+    "lr2_bmsid": "",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up6809.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "ENTANGLEMENT \/ ABE3 \/ ★9～11 \/ ラス殺し気味",
+    "adddate": "10\/13\/2025"
+  },
+  {
+    "md5": "0641808edd1434d91d3f8e81994f7e77",
+    "org_level": 9,
+    "title": "eth剣 [EX]",
+    "artist": "BOKKEN PINK BOKKEN DODOME+MAGENTA",
+    "folder": "花10",
+    "level": "10",
+    "lr2_bmsid": "82172",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/bof\/up0068.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "[BOF2010] eth剣[EX]　★9 noLN",
+    "adddate": "10\/13\/2025"
+  },
+  {
     "md5": "e4305212d18e0d2080873aa33ad39b6d",
     "org_level": 12,
     "title": "goly right tateration",
@@ -3297,6 +3425,22 @@
     "org_md5": "d05a25b1cca3f83ad10894f89303012d",
     "comment": "",
     "adddate": "10\/10\/2025"
+  },
+  {
+    "md5": "27264a5c43ff7ad78399106e672ff76d",
+    "org_level": 10,
+    "title": "Love & Justice (Crab Butter)",
+    "artist": "フロン \/ ラズベリル \/ obj:ルチル",
+    "folder": "花10",
+    "level": "10",
+    "lr2_bmsid": "186511",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up4305.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "Love & Justice \/ フロン \/ ★10程度 \/ 皿絡み発狂",
+    "adddate": "10\/13\/2025"
   },
   {
     "md5": "0cbbb890dd63a20938f97edd2db42e4c",
@@ -3525,6 +3669,38 @@
     "adddate": "9\/25\/2025"
   },
   {
+    "md5": "826b3f4a572ccc71aa884cfc6c5f8f69",
+    "org_level": 11,
+    "title": "Joker -XaaaCi-",
+    "artist": "D.J.Nero \/ obj.vese",
+    "folder": "花11",
+    "level": "11",
+    "lr2_bmsid": "94069",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up1786.rar",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "Joker \/ D.J.Nero \/ ★10前後",
+    "adddate": "10\/13\/2025"
+  },
+  {
+    "md5": "7cd4801c1e068b6c9eacff1dab953039",
+    "org_level": 11,
+    "title": "kyrie (SA-ther)",
+    "artist": "paraoka\/obj: sa-ta",
+    "folder": "花11",
+    "level": "11",
+    "lr2_bmsid": "191050",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up4540.rar",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "kyrie　★11くらい",
+    "adddate": "10\/13\/2025"
+  },
+  {
     "md5": "dd236414e0ee6b117243e060f429a3e9",
     "org_level": 10,
     "title": "mi\/t (ha\/d)",
@@ -3603,6 +3779,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "8\/28\/2025"
+  },
+  {
+    "md5": "4052b60081636814a025ee0ae331cb0c",
+    "org_level": 12,
+    "title": "10 ： ． [∵（●）∴∵]",
+    "artist": "∴ ∵",
+    "folder": "花12",
+    "level": "12",
+    "lr2_bmsid": "194053",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up4630.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "[BOF2010]10:. \/ ∴ \/ ★12",
+    "adddate": "10\/13\/2025"
   },
   {
     "md5": "67e7a0e6ac5c88062b4037c4b0a838ed",
@@ -3832,6 +4024,22 @@
     "adddate": "9\/30\/2025"
   },
   {
+    "md5": "b15ec392dab111155488c5a9fac75ccd",
+    "org_level": 12,
+    "title": "TOKYO-RHYTHM No.524 [(>ω<／)三(＼>ω<)]",
+    "artist": "フォ㍊ Obj.Triforce",
+    "folder": "花12",
+    "level": "12",
+    "lr2_bmsid": "215332",
+    "url": "http:\/\/www.dropbox.com\/s\/8p3dkew4221xi6g\/TOKYO-RHYTHM%20No.524%5BStrawberry!!%5D.zip?dl=0",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up5648.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "TOKYO-RHYTHM No.524 \/ フォ㍊ \/ ★12～★14 \/ 連打、ラス殺し、ソフラン一部削除 \/ (>ω<／)三(＼>ω<)",
+    "adddate": "10\/13\/2025"
+  },
+  {
     "md5": "683340fac1d376bea11c0848531ed6dd",
     "org_level": 12,
     "title": "Tuk Tuk Boshi [7keys Crescent]",
@@ -4008,6 +4216,22 @@
     "adddate": "9\/24\/2025"
   },
   {
+    "md5": "6d6d1856da543bd2acc69fae6b362745",
+    "org_level": 13,
+    "title": "far in the blue sky... [虚空]",
+    "artist": "saikoro \/ obj:vanity",
+    "folder": "花13",
+    "level": "13",
+    "lr2_bmsid": "179964",
+    "url": "http:\/\/http\/\/members3.jcom.home.ne.jp\/shin510629\/bmscolumn\/03_fitbs.htm",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up4064.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "far in the blue sky... \/ saikoro \/ ★12～14？ \/ 乱打縦連",
+    "adddate": "10\/13\/2025"
+  },
+  {
     "md5": "c7e6dba38ba3618ea22e508917596716",
     "org_level": 7,
     "title": "fuga (普通 Version)",
@@ -4124,6 +4348,22 @@
     "adddate": "9\/24\/2025"
   },
   {
+    "md5": "28126f1466f30f2571f23c60b40f1011",
+    "org_level": 13,
+    "title": "Raydance <7key SABOTHER>",
+    "artist": "Y.W\/さ",
+    "folder": "花13",
+    "level": "13",
+    "lr2_bmsid": "122988",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up2441.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "Raydanceの差分　★12と★16くらい",
+    "adddate": "10\/13\/2025"
+  },
+  {
     "md5": "d53f6a5ad2dd0a804567c2ef84189976",
     "org_level": 12,
     "title": "Reptile Dance [Tob]",
@@ -4209,6 +4449,22 @@
     "org_md5": "c6c3787fb8a02f849dfaff62bb4c3a9a",
     "comment": "",
     "adddate": "10\/4\/2025"
+  },
+  {
+    "md5": "04b8ce93ee454fc7fe52cd6bf17e84d1",
+    "org_level": 13,
+    "title": "The freak is thrilled by a rose. [ANOTHER+]",
+    "artist": "remixed by xenothium",
+    "folder": "花13",
+    "level": "13",
+    "lr2_bmsid": "69916",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up1114.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "The freak is thrilled by a rose.　★13",
+    "adddate": "10\/13\/2025"
   },
   {
     "md5": "88fc9ae4d2413564a6f9b1ab46c753bc",
@@ -4316,6 +4572,38 @@
     "org_md5": "",
     "comment": "",
     "adddate": "9\/24\/2025"
+  },
+  {
+    "md5": "be4addbb266ac442e1f7de2b7f88e3dd",
+    "org_level": 14,
+    "title": "Conference on Disarmament 20XX [INSANE]",
+    "artist": "Professor S \/ obj.ATOM",
+    "folder": "花14",
+    "level": "14",
+    "lr2_bmsid": "",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up6704.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "Conference on Disarmament 20XX \/ Professor S \/ ★14 \/ 発狂・BPM変化 \/ 音追加有り（音源のURLを記載したtxtファイル同梱）",
+    "adddate": "10\/13\/2025"
+  },
+  {
+    "md5": "2f0ff5d64776868f792c065cbb053529",
+    "org_level": 11,
+    "title": "dimension block -SP EX-",
+    "artist": "Is-m\/xi-forne.d BGA:sta",
+    "folder": "花14",
+    "level": "14",
+    "lr2_bmsid": "216767",
+    "url": "http:\/\/www.is-m.jp\/",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up5784.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "dimension block \/ Is-m \/ ★11くらい \/皿多め、ややハード殺し",
+    "adddate": "10\/13\/2025"
   },
   {
     "md5": "465d418e371077e71c08ebcfc1200e1d",
@@ -5037,6 +5325,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "8\/28\/2025"
+  },
+  {
+    "md5": "14916e17bf7c9bf6da9081b23f4458ae",
+    "org_level": 15,
+    "title": "多重極展開 [SP Linther]",
+    "artist": "Rocky \/ obj : LindBlum",
+    "folder": "花15",
+    "level": "15",
+    "lr2_bmsid": "228361",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/bof\/up1157.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "[BOF2013] 多重極展開 \/ Rocky \/ ★9～★10 \/ 縦連、皿複合",
+    "adddate": "10\/13\/2025"
   },
   {
     "md5": "7cf63ef59def72e41f266d6b357700c8",
@@ -7725,6 +8029,22 @@
     "adddate": "8\/28\/2025"
   },
   {
+    "md5": "09ad3bcf074a7ea1422184cc10769eb3",
+    "org_level": 11,
+    "title": "Gamegame(bms edit) [Game-ko is in nothin' but a JERSEY 7]",
+    "artist": "s-don \/ 篠乃ちよ obj:ED",
+    "folder": "花21",
+    "level": "21",
+    "lr2_bmsid": "230173",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up6837.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "Gamegame(bms edit) \/ s-don \/ 篠乃ちよ \/ ★10～12",
+    "adddate": "10\/13\/2025"
+  },
+  {
     "md5": "323e391cb09c023da7fe439d12bc6def",
     "org_level": 21,
     "title": "GaRaKuTic Dream (garbage)",
@@ -10028,6 +10348,22 @@
     "org_md5": "",
     "comment": "(Max:23.9)",
     "adddate": "8\/29\/2025"
+  },
+  {
+    "md5": "515b03f9867d3079bc844bfef76f70d1",
+    "org_level": 16,
+    "title": "MIGHTY OBSTACLE -(^血^)-",
+    "artist": "EXCALIpUR \/obj OREN-G",
+    "folder": "花23",
+    "level": "23",
+    "lr2_bmsid": "70023",
+    "url": "",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up1960.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "MIGHTY OBSTACLE -(^血^)-★血",
+    "adddate": "10\/13\/2025"
   },
   {
     "md5": "babde07aa3c2f6fbf036f69849d668ed",
@@ -13047,6 +13383,22 @@
     "org_md5": "",
     "comment": "<a href=\"http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=01491\" target=\"_blank\">http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=01491<\/a><br>2018\/02\/05 新規提案難易度：◆7<br>2018\/03\/11 新規追加：◆8",
     "adddate": "9\/24\/2025"
+  },
+  {
+    "md5": "b8ce8bcb9cba5db77f597011fccbea12",
+    "org_level": 10,
+    "title": "Eleventh Hour (time limit soon! mix)　 [7key EXTRA LN]",
+    "artist": "hiro remixed by HOUJIROU \/ obj：18",
+    "folder": "花◆",
+    "level": "◆",
+    "lr2_bmsid": "69836",
+    "url": "http:\/\/sound.jp\/takacyan930\/bms.html",
+    "url_diff": "https:\/\/darksabun.github.io\/mirror\/absolute\/uploader\/up1106.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "Eleventh Hour (time limit soon! mix) \/ ★3 LN差分",
+    "adddate": "10\/13\/2025"
   },
   {
     "md5": "302e7f97c4e2aabc8c7eec75cc9cb59d",
