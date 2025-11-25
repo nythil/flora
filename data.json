@@ -1628,6 +1628,22 @@
     "adddate": "8\/28\/2025"
   },
   {
+    "md5": "233b0091293574989d1d05f89e279174",
+    "org_level": 2,
+    "title": "SEKIDO [Dead]",
+    "artist": "DJ Eye obj : Mary_Sue",
+    "folder": "花2",
+    "level": "2",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=35&event=132",
+    "url_diff": "https:\/\/darksabun.github.io\/Mary_Sue\/",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "11\/25\/2025"
+  },
+  {
     "md5": "01d2e56d590fc7e46f0a884b37fd5354",
     "org_level": 1,
     "title": "Squeeze Me(Radio Edit) [Air]",
@@ -1943,20 +1959,34 @@
     "adddate": "9\/24\/2025"
   },
   {
-    "md5": "233b0091293574989d1d05f89e279174",
-    "org_level": 2,
-    "title": "SEKIDO [Dead]",
-    "artist": "DJ Eye obj : Mary_Sue",
+    "md5": "08f754e7cedede0eb031a4e1fbd9d938",
+    "org_level": 3,
+    "title": "SEKIDO @ ・ ω ・ @",
+    "artist": "DJ Eye [obj. vi]",
     "folder": "花3",
     "level": "3",
     "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=35&event=132",
-    "url_diff": "https:\/\/darksabun.github.io\/Mary_Sue\/",
+    "url": "",
+    "url_diff": "",
     "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
+    "org_md5s": [
+      "b0e132c3181bea62ae734cee37fabee8",
+      "895bc2be73e42a7dbc8c9701c0a6e3c5",
+      "53d861b11bb6338d4780122658296f5d",
+      "233b0091293574989d1d05f89e279174",
+      "08f754e7cedede0eb031a4e1fbd9d938",
+      "f76b1d56ffcaf330a197f656a9048049",
+      "d19fd1bf366d32cdb66c98c5fc09f1f5",
+      "f1404493f34876429f36ddef807620ab",
+      "9ba3fa60b3f344544987851d37df0b95",
+      "65cfc7d90b0d0560cda461539768cc80",
+      "4a51471c4cae66a63a27a2892d84d6ec",
+      "1287ed15b70fb38df35f8e792a790b05",
+      "cd23bf9461293a207a045afbc92c333f"
+    ],
+    "org_md5": "b0e132c3181bea62ae734cee37fabee8",
     "comment": "",
-    "adddate": "9\/24\/2025"
+    "adddate": "11\/25\/2025"
   },
   {
     "md5": "928043d2a1c0b243d664530dcfdeb672",
@@ -2920,6 +2950,30 @@
     "adddate": "8\/28\/2025"
   },
   {
+    "md5": "8224ed91c2fece65cd9d2b41552951bd",
+    "org_level": 6,
+    "title": "808 WINKS [MANIAC7]",
+    "artist": "MITCH DOWNVELL [obj. vi]",
+    "folder": "花6",
+    "level": "6",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6f14bc01358c26029538426bb05e1ab3",
+      "dadbf77b17539a15f693d0fbb46fde6b",
+      "f5da8e24490b0856760eb63f51181fdc",
+      "738c44b97ad32bf1b23b5317c2e7c434",
+      "681e967510d6b1473eb29ec9a65ba421",
+      "6f584f1cc60076d2006f61e014460d48",
+      "8224ed91c2fece65cd9d2b41552951bd"
+    ],
+    "org_md5": "6f14bc01358c26029538426bb05e1ab3",
+    "comment": "",
+    "adddate": "11\/25\/2025"
+  },
+  {
     "md5": "cecc71ad38606af7f5282859d4be2287",
     "org_level": 6,
     "title": "Back 2 Oldskool [Dead Or Alive]",
@@ -3496,6 +3550,36 @@
     "org_md5": "",
     "comment": "R140 \/ 誤字トゥーリスト \/ ★6",
     "adddate": "10\/13\/2025"
+  },
+  {
+    "md5": "f76b1d56ffcaf330a197f656a9048049",
+    "org_level": 10,
+    "title": "SEKIDO @`・ ω ・´@",
+    "artist": "DJ Eye [obj. vi]",
+    "folder": "花7",
+    "level": "7",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "b0e132c3181bea62ae734cee37fabee8",
+      "895bc2be73e42a7dbc8c9701c0a6e3c5",
+      "53d861b11bb6338d4780122658296f5d",
+      "233b0091293574989d1d05f89e279174",
+      "08f754e7cedede0eb031a4e1fbd9d938",
+      "f76b1d56ffcaf330a197f656a9048049",
+      "d19fd1bf366d32cdb66c98c5fc09f1f5",
+      "f1404493f34876429f36ddef807620ab",
+      "9ba3fa60b3f344544987851d37df0b95",
+      "65cfc7d90b0d0560cda461539768cc80",
+      "4a51471c4cae66a63a27a2892d84d6ec",
+      "1287ed15b70fb38df35f8e792a790b05",
+      "cd23bf9461293a207a045afbc92c333f"
+    ],
+    "org_md5": "b0e132c3181bea62ae734cee37fabee8",
+    "comment": "",
+    "adddate": "11\/25\/2025"
   },
   {
     "md5": "d23934389e48f1c7b8f9c4eaa49d6d1e",
@@ -8054,6 +8138,22 @@
     "adddate": "8\/29\/2025"
   },
   {
+    "md5": "274ec65635e69b3814fac59a616edeb9",
+    "org_level": 17,
+    "title": "prototype Eureka [MANIAC+]",
+    "artist": "sasakure.UK x ArmyTom Movie:pam x HDLV | LED",
+    "folder": "花17",
+    "level": "17",
+    "lr2_bmsid": null,
+    "url": "https:\/\/drive.google.com\/file\/d\/1U1NiAqT9XAkXtALF2NM9394Q-AHrHZSi\/view?usp=sharing",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/4739",
+    "name_diff": "Stella Uploader",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "11\/25\/2025"
+  },
+  {
     "md5": "f1f3a63e62cb5449bcc88578641d0f8a",
     "org_level": 17,
     "title": "pumpkin man [>w<]",
@@ -8068,6 +8168,22 @@
     "org_md5": "",
     "comment": "★10(X) ★16です よろしくお願いします！！差分URL→差分パック→pumpkinman_oggフォルダ内",
     "adddate": "8\/29\/2025"
+  },
+  {
+    "md5": "a68a22f5582603acfd95dd40ce342389",
+    "org_level": 17,
+    "title": "Romancecar (Kukan Junkyu Edit) -SP_ST-",
+    "artist": "jet:tones | LED",
+    "folder": "花17",
+    "level": "17",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.yamajet.com\/archives\/category\/%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%A5%BD%E6%9B%B2\/page\/2",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/4114",
+    "name_diff": "Stella Uploader",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "11\/25\/2025"
   },
   {
     "md5": "96fb7813b3d3d9269adecf9e7d87b1d5",
@@ -8445,6 +8561,22 @@
     "org_md5": "",
     "comment": "同梱譜面(11\/3以前のバージョンでは隠し譜面)whiteout r.xxxをwhiteout r.bmsにする（現在のzipにはbmsファイルで収録）",
     "adddate": "8\/28\/2025"
+  },
+  {
+    "md5": "70a9de976739e49e12fb2885c9b890f4",
+    "org_level": 18,
+    "title": "Wiinter dream [WiiU_collection]",
+    "artist": "Yamajet | LED",
+    "folder": "花18",
+    "level": "18",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.yamajet.com\/bms\/data\/yamajet_wiinter_dream.rar",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/4976",
+    "name_diff": "Stella Uploader",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "11\/25\/2025"
   },
   {
     "md5": "00b7d72f7ecd3d4f0af4ebdc0ee69f61",
@@ -9698,6 +9830,22 @@
     "adddate": "8\/28\/2025"
   },
   {
+    "md5": "a4c6d97de771239129ee90562e80f495",
+    "org_level": 20,
+    "title": "Still Alive In Love [SA]",
+    "artist": "FALL feat. yufu_sekka obj.RH_Driver",
+    "folder": "花20",
+    "level": "20",
+    "lr2_bmsid": null,
+    "url": "https:\/\/www.likeside.net\/",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/5776",
+    "name_diff": "Stella Uploader",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "11\/25\/2025"
+  },
+  {
     "md5": "09879e002001d8d58524d220bfda6e3b",
     "org_level": 19,
     "title": "the core (SUPERHELL)",
@@ -10119,6 +10267,22 @@
     "org_md5": "",
     "comment": "■ GENOSIDE2018段位認定 発狂九段 4曲目（18\/04\/15～）\u000a■ 楽曲会場：http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=33&event=86",
     "adddate": "9\/10\/2025"
+  },
+  {
+    "md5": "2823ec3dd63bcd92e592184440e19716",
+    "org_level": 21,
+    "title": "Cold Tribe [FORCE]",
+    "artist": "A.T.M. | LED",
+    "folder": "花21",
+    "level": "21",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "https:\/\/stellabms.xyz\/upload\/5309",
+    "name_diff": "Stella Uploader",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "11\/25\/2025"
   },
   {
     "md5": "5ce24e0403439a30dcf1e36b6af02b82",
@@ -13183,6 +13347,22 @@
     "adddate": "8\/29\/2025"
   },
   {
+    "md5": "857eea0a4bee820811b3685780848bbc",
+    "org_level": 6,
+    "title": "bioluminescence [light up]",
+    "artist": "dandeless obj: LuvTek",
+    "folder": "花24",
+    "level": "24",
+    "lr2_bmsid": null,
+    "url": "https:\/\/venue.bmssearch.net\/bmstukuru2023\/43",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "11\/25\/2025"
+  },
+  {
     "md5": "60d02c7751de809ec56a554a3deb360d",
     "org_level": 4,
     "title": "Black Lotus [a'nrakor]",
@@ -14654,6 +14834,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "10\/1\/2025"
+  },
+  {
+    "md5": "65907e463ec91721937ceb396980e6ae",
+    "org_level": 8,
+    "title": "GOODBOUNCE [GOODSTUDENT]",
+    "artist": "EBIMAYO 柏駅東口から徒歩10分 \/ obj : BAECON",
+    "folder": "花25",
+    "level": "25",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=64&event=110",
+    "url_diff": "http:\/\/akred.web.fc2.com\/baecon\/_goodbounceGS.bms",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "11\/25\/2025"
   },
   {
     "md5": "28f8ff17a5f4e7f5ffc8e3502542f528",
